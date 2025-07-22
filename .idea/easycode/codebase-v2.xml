@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/workflex/config/CSVLoader.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/controller/TripController.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/dto/TripRequestDTO.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/model/Trip.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/repository/TripRepository.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/service/TripService.java;C:/Users/kirsalvi/Downloads/workflex_project/src/main/java/com/workflex/WorkflexApplication.java" />
+  </component>
+</project>
